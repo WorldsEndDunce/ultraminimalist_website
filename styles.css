@@ -1,0 +1,36 @@
+ul li { padding: 5px 0px; }
+body { font-family: 'Times New Roman', serif;
+      width: 60%; /* You can adjust this width as needed */
+      margin: 0 auto;
+      margin-top: 20px;
+      }
+      sp {
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    display: inline-block;
+}
+      img {
+    width: 60%;
+    height: auto;
+    max-width: 100%;
+}
+      sp:hover {
+    background-color: #028A0F;
+    color: white;
+}
+      .dark-mode {
+  background-color: #212121;
+  color: white;
+}
+a {
+          color: #028A0F;
+}
+      a:visited {
+          color: #028A0F;
+      }
+        hr {
+            border-color:lightgray;
+            border-width: 1px;
+
+        }
