@@ -34,3 +34,9 @@ a {
             border-width: 1px;
 
         }
+
+ footer {
+     color: darkgray;
+    margin-top: 20px;
+     margin-bottom: 20px;
+}
